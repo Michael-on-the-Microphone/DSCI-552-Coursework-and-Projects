@@ -1,6 +1,6 @@
 # DSCI-552-Coursework-and-Projects
 
-> USC DSCI 552 • Spring/Summer 2025 • Instructor: M. R. Rajati
+> USC DSCI 552 • Summer 2025 • Instructor: M. R. Rajati
 
 This monorepo aggregates all coursework (9 homeworks + 1 final project). Each subfolder contains a self-contained report-style README that documents the dataset(s), techniques, ML tasks, modeling choices, and evaluation protocols used.
 
