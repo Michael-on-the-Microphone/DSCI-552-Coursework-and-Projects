@@ -10,7 +10,7 @@ This monorepo aggregates all coursework (9 homeworks + 1 final project). Each su
 |---|---|---|---|
 | HW0 | Onboarding, Pandas/Numpy/Matplotlib/Seaborn/Scikit-learn, Git | Salaries.csv | Data I/O, indexing, filtering, `describe()`, vectorization, plotting, sklearn API survey |
 | HW1 | k-Nearest Neighbors, distance metrics, learning curves | UCI Vertebral Column | KNN (Euclidean/Manhattan/Minkowski/Chebyshev/Mahalanobis), weighted voting, confusion metrics |
-| HW2 | *(placeholder—see README in HW2)* | — | — |
+| HW2 | Linear vs Polynomial vs Interactions vs KNN on CCPP | UCI CCPP (Sheet 1) | Univariate & multivariate LR, cubic per-feature tests, pairwise interactions with hierarchical selection, 70/30 holdout MSE, KNN regression with/without scaling, error vs 1/k |
 | HW3 | Time-series feature extraction | UCI AReM | Time-domain features, bootstrap CIs, feature screening |
 | HW4 | Time-series classification | UCI AReM | Logistic regression, RFE, stratified CV, L1-penalized LR, multinomial LR, Naive Bayes |
 | HW5 | Interpretable trees; regularization & boosting for regression | UCI Acute Inflammations; Communities & Crime | Decision trees, rule extraction, cost-complexity pruning, OLS, Ridge, LASSO, PCR, XGBoost |
